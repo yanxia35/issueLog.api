@@ -1,0 +1,14 @@
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\bin\Debug\netcoreapp2.2\IssueLog.API.deps.json
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\bin\Debug\netcoreapp2.2\IssueLog.API.runtimeconfig.json
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\bin\Debug\netcoreapp2.2\IssueLog.API.runtimeconfig.dev.json
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\bin\Debug\netcoreapp2.2\IssueLog.API.dll
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\bin\Debug\netcoreapp2.2\IssueLog.API.pdb
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.csprojAssemblyReference.cache
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.csproj.CoreCompileInputs.cache
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.RazorAssemblyInfo.cache
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.RazorAssemblyInfo.cs
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.AssemblyInfoInputs.cache
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.AssemblyInfo.cs
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.RazorTargetAssemblyInfo.cache
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.dll
+c:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp2.2\IssueLog.API.pdb

@@ -1,0 +1,5 @@
+C:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp3.0\IssueLog.API.csprojAssemblyReference.cache
+C:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp3.0\IssueLog.API.AssemblyInfoInputs.cache
+C:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp3.0\IssueLog.API.AssemblyInfo.cs
+C:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp3.0\IssueLog.API.csproj.CoreCompileInputs.cache
+C:\Users\yxia\projects\GI_TOOLS\issueLog\IssueLog.API\obj\Debug\netcoreapp3.0\IssueLog.API.MvcApplicationPartsAssemblyInfo.cache
